@@ -61,6 +61,14 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
+				},
+				gaming: {
+					orange: '#FF6B35',
+					cyan: '#00D9FF',
+					navy: '#1A1F2C',
+					yellow: '#FFE66D',
+					dark: '#2A2F3C',
+					light: '#3A3F4C'
 				}
 			},
 			borderRadius: {
